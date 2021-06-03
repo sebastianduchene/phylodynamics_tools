@@ -9,3 +9,7 @@ python3 find_seqs.py query_sequences.txt test_seqs.fasta output.fasta
 	- test_seqs.fasta is a fasta alignment where the sequences will be fetched from.
 	- output.fasta is the name of the output file.
 
+
+- **Futher edits to do**
+
+  - Pending.
